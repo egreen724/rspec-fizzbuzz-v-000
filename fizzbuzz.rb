@@ -8,7 +8,7 @@ def fizzbuzz(int)
   puts "Buzz"
   elsif int % 3 && int % 5 == 0 
   puts "FizzBuzz"
-  else return "NIL"
+  else return "nil"
 end
 end 
 
