@@ -8,7 +8,7 @@ def fizzbuzz(int)
   "Buzz"
 elsif int % 3 && int % 5 == 0 
 "fizzbuzz"
-else int !% 3 || int !% 5 == 0 
+else FALSE
 end
 end 
 
