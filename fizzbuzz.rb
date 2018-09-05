@@ -6,9 +6,9 @@ def fizzbuzz(int)
     puts "Fizz"
   elsif int % 5 == 0 
   puts "Buzz"
-elsif int % 3 && int % 5 == 0 
-puts "FizzBuzz"
-else FALSE
+  elsif int % 3 && int % 5 == 0 
+  puts "FizzBuzz"
+  else FALSE
 end
 end 
 
